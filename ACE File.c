@@ -1,6 +1,6 @@
-/** Author: Stewart Laing, Reg no: 201711046
- * Author: Maximo Crichton-Smith, Reg no: 201740733
- * Author: Liam Wallace, Reg no: 201701137
+/** Author: Stewart Laing
+ * Author: Maximo Crichton-Smith
+ * Author: Liam Wallace
  *
  *
  * Personal Statement: We confirm that this submission is all our own work.
