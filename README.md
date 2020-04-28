@@ -2,6 +2,7 @@
 
 Your shell should support the following functionality:
 1. Execution of external system programs including their parameters.
+
 2. The following built-in commands:
 a. cd – change working directory
 b. getpath – print system path
@@ -30,6 +31,8 @@ should execute the command with number 5 from the history). It should
 also be possible to alias aliases (e.g. If I alias l to be ls and then I alias la
 to be l –a, then when I type la the shell should execute ls –a).
 j. unalias <command> - remove any associated alias
+  
 3. Persistent history of user commands (save history in a file and load it when you run
 the shell again)
+
 4. Persistent aliases (save aliases in a file and load it when you run the shell again)
